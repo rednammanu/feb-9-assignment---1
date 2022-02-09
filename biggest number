@@ -1,0 +1,6 @@
+a  = int(input("entert the number"))
+b = int(input("enter the number"))
+if a > b:
+    print("a is bigger than b")
+else:
+    print("a is less than b")
